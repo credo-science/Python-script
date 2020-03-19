@@ -7,8 +7,7 @@ autor: Sławomir Stuglik
 <b>1) contact CREDO Science Coordinator</b> (credodetector@credo.science) and describe why do you want access and what are you going to do with the data. 
 Remember to include your username and send the message from email address you used during registration. 
 Documentation about data export is available on GitHub.
-
-
+<br><br>
 
 <b>2) Having access to the data, you must download the scripts to download the detection</b> described here:
 https://github.com/credo-science/credo-api-tools/tree/master/data-exporter
@@ -16,11 +15,11 @@ https://github.com/credo-science/credo-api-tools/tree/master/data-exporter
 
 And download data using the command from the terminal (console):
 
-Python3 ./credo-data-exporter.py --user yourusername --password 'userr_password'
+    Python3 ./credo-data-exporter.py --user yourusername --password 'userr_password'
 
 
 <b>3) Detections that interest you are located in the "Detections" folder.
-Each detection creates 1 record consisting of 3 parts regarding:</b>
+Each detection creates 1 record consisting of 4 parts regarding:</b>
 
 
 <b>a) User - detection user information</b>
