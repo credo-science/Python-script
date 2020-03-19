@@ -22,19 +22,23 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
 
 
 <b>a) User - detection user information</b>
+
   "team_id": 1,<br>
   "user_id": 1,<br>
   
 <b>b) location - geographical coordinates</b>
+
   "latitude": 49.493,<br>
   "longitude": 19.051,<br>
   
 <b>c) time - detection time information</b>
+
   "timestamp": detection time (in unix time, 13 char,ms)<br>
   "time_received": reception time in the detection base,<br>
  
  
 <b>d) picture - detection image information</b>
+
   "id": unique detection id,<br>
   "frame_content": image code in base64,<br>
   "height": information about the "height" of the resolution,<br>
