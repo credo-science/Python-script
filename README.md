@@ -49,6 +49,7 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
   position of the brightest pixel in the slice (most common size of the slice 60x60)
   
   "x": position in width,
+  
   "y": position in height,
 
 <hr>
