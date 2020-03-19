@@ -14,6 +14,7 @@ https://github.com/credo-science/credo-api-tools/tree/master/data-exporter
 
 
 And download data using the command from the terminal (console):
+
 Python3 ./credo-data-exporter.py --user yourusername --password 'userr_password'
 
 
