@@ -9,6 +9,7 @@ Remember to include your username and send the message from email address you us
 Documentation about data export is available on GitHub.
 
 
+
 <b>2) Having access to the data, you must download the scripts to download the detection</b> described here:
 https://github.com/credo-science/credo-api-tools/tree/master/data-exporter
 
@@ -48,7 +49,7 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
   <br>
   position of the brightest pixel in the slice (most common size of the slice 60x60)
   
-  "x": position in width,
+  "x": position in width,<br>
   "y": position in height,
 
 <hr>
