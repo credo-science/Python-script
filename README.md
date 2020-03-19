@@ -47,8 +47,9 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
   "visible": Does the detection pass through the primary filter (in the application), is set to (true, false),<br>
   <br>
   position of the brightest pixel in the slice (most common size of the slice 60x60)
-  "x": 400,<br>
-  "y": 374<br>
+  
+  "x": position in width,
+  "y": position in height,
 
 <hr>
 </b>Detections are grouped into json files that can be read in many programming languages,</b>
