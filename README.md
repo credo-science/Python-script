@@ -53,7 +53,7 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
 </b>Detections are grouped into json files that can be read in many programming languages,</b>
 We recommend using Python3 because it is very easy to use.
 
-The following is a simple example of loading detection and writing detection time and device id.
+The following is a simple example of loading detection and print text in console:user id, detection time and device id.
 
     with open(path_to_file) as f:
         json_from_file = json.load(f)
