@@ -52,6 +52,7 @@ Each detection creates 1 record consisting of 3 parts regarding:</b>
   "y": position in height,
 
 <hr>
+
 </b>Detections are grouped into json files that can be read in many programming languages,</b>
 We recommend using Python3 because it is very easy to use.
 
