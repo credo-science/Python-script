@@ -71,3 +71,6 @@ The following is a simple example of loading detection and print text in console
 Detections require passing through anti filter artifacts, in offline mode,
 you can read the report on this filter here: (registration required)
 https://credo2.cyfronet.pl/redmine/documents/28
+
+
+skryptu_filtr.tar.gz show how we can use filtr antyartifact in all detection 
